@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "HUMBLE-BOY"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -67,7 +67,8 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "*HUMBLETZ
+	  *"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -80,9 +81,9 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "255738132447"
   },
-   "SESSION_ID": {
+   "SESSION_ID": {KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUFSSnRGSUtORzNvUDE2YUpRNlkzVGNLTHRRbFJFSy9DMi9IM0psMUYydz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNzhXNTlYOVBYNVI0N3R4OG9WOWdFZnBtQWZNcFFqek9RQ20vU2JvUnRWRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnQWhDQUI4ajBscEQ3UjhtTkwxZGdiK1NYd0VWb0tYYXJLS1hPU1lCdDJrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4eFcvSENjcnZxNEhlZ1UzQnZGK0Z4OS83Njh2RllYZEd6YWJ2Zk5GZHpNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldGRVN3ZEd0VlY0bmJkVHpqMENSOXJJRURML2xNWmdNY0xWRDM3eTg3bGc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlQ4VGUrMEpTeWVVd3N1aXozNnBwak1QUHp2RW05MCt1NTJ2L0d1YUhyVlU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0Fhd3ZIN0VHSkJGOEJDMm1qL3hvNWtlTTZhcVJpVUgzZ3EzN2lWSFIycz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWG1yM1I3am1tSVMxVFFZWFd3VjlEd1VXajZQbk54ZUlqanJMMjZSdnZRYz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ijd3aWtWVEZPbGVvRU9UY0pqdHk5NzQ1L2w3enVCQ2FvTVRpb0xENjRyU3Era05hVGtrTVNNQjMvSktiUjFCYUtySjhQK3pCdURLMWNoaVIreFZhdGlnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjMyLCJhZHZTZWNyZXRLZXkiOiJWamZGUU9iQVB5dStucm1rZG1hbGQxU1lyc1JvenFISHh0cU9wYk9NZlh3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJpeXdlNVZ1UFRKQ3prd0pVTng3ZjRRIiwicGhvbmVJZCI6ImZmYTNmOWZiLTE3NTctNDc5NC1hZDIxLTYxYTYwZTNjN2YzNiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVbkRKalMwK094bVB4UHQ0ZldHYWpZVUxZc1U9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUhsV3VzUndZUUNieEs2VXByUEhqMlJLZ1pZPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlNLVjhYR0RFIiwibWUiOnsiaWQiOiIyNTU3MzgxMzI0NDc6MzdAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0xla2c3MEZFT2pkeHJNR0dBWWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjFEU1RTR1JxaUxSOUMrczU1TXhDK0Y4UlpNaXo5RGFaSS96dStrRVdNMUE9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjZjQytNdnA1VEtNeGZ6N0RyUyt0TFpLRDZBeVp1WVJ6VkRtWFlVV1dxTDBSNUFteVgvRkk3MTJVUmNDZ0lLRTlMbUQxYlZwU0UwYTNudHZEakdXckRnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJGeDhKTGUwemU4V05CdmE5WUVDVElEdXRweXZCOXI4UWxxd3pqSU92eFh6cjYzczlJcGJWY05oYWY1SFlsMHJlK1pkUGVpdVFoMlNTOXZ4VE0xUnRqZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTczODEzMjQ0NzozN0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkUTBrMGhrYW9pMGZRdnJPZVRNUXZoZkVXVElzL1EybVNQODd2cEJGak5RIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE4NzI2MzkwLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQU10aiJ9
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
@@ -119,7 +120,8 @@
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "humbletz.
+"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
