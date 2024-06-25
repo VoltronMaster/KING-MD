@@ -3,21 +3,21 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.OWNER_NUMBER.split("255738132447,")
 global.mongodb = process.env.MONGODB_URI || ""
 global.port= process.env.PORT || 5000
 global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/naveeddogar/KING-MD'
 global.location = 'pakistan/multan'
-global.gurl = 'https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w' // add your username
-global.sudo = process.env.SUDO || '923096566451'
-global.devs = '923096566451';
+global.gurl = 'https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w' // HUMBLE-BOY
+global.sudo = process.env.SUDO || '255738132447'
+global.devs = '255738132447';
 global.website = 'https://king-md-session.onrender.com/' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/5541dfe4dc8c2f51e3f02.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'Naveed Dogar' : process.env.OWNER_NAME,
-  sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
+  botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME, HUMBLE-TECHNOLOGY
+  ownername: process.env.OWNER_NAME === undefined ? 'Naveed Dogar' : process.env.OWNER_NAME,HUMBLE-BOY
+  sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0x0cmQ5ZjRraWEvQTRhNk1zb3hxRWp6aHEzSVpYYVk2WUoyVG1jK0kwaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidEkwWlMrZElqSll1ai9yVzc2U2p1dzF5dGNUTEpJM2dveXlaRC9jSlQxOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJRkptc01Zdktab2JCbmFjQU1vU3JUdE1iM2RlZ3pJQm9KTXpRelF1LzB3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHenkzU1JhblpyZnZYZmozYjJ1VXdDNFRhdTBaKzk2S0tFL3lJNThjYWk0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1FdUZwa0ZTSzdDSzdnWXZRNER1eUw4UzhLK04rd0tSaTBFa0ZzM1BuRWM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InYxR0E4YkpxNkU0ekloaW05UVFtczVIcGRHSWpjUGFCQjkrUTRYVmM1RmM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic05LcUcySEt6akw1SHN2TE5lUGJYZHV0djJDOGRtRjYrd2owUWtWL1kwST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiem1oTWVjMWZzR1Nhc0YzZmw5N3dVUUhNSFdwMVd2YnE5dlh0UU9PeWt3UT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdWZEhrVXpZclM1Z25xaWRsNGlDVVdXSDYwcVZNNUZqRk5Hc1dmT3ErWUJoMnB1T2Z4MjZGWFkycnhqZzUrR3FZYUMxNW82QTNNUXhPRkgrSUwzbERRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTksImFkdlNlY3JldEtleSI6Ikpyenh4QlVGajdGQnJpTUtMQ05WMWFES1QxbnJuVVBLY1RaOE9CNTNXeEk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IlVWODV4Uno0UmJHNEZIcWtEMGdLcWciLCJwaG9uZUlkIjoiYTYwNGFhYTUtNTA1My00NDRiLWE3YzgtNzA2ODNiYTJlNjM1IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InpVaGRKdy9pdGdzOXpDUXg1b0hUVExmVE1xbz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnbjVreXVaK0dSemdDaE9PejRPUkg1cmk2b009In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMUw4VE02TE0iLCJtZSI6eyJpZCI6IjI1NTczODEzMjQ0Nzo1MkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTGVrZzcwRkVPYUU2ck1HR0JzZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiMURTVFNHUnFpTFI5QytzNTVNeEMrRjhSWk1pejlEYVpJL3p1K2tFV00xQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiTWl0UEs3Rm1XdGJUODRCWk5UdTQrNDJFaE1RUmMvNFo0L1J6dzgzZkxBZ3paRGh0dWhDM0V6dUFNNUNWUmtCbzZqZTRQSXdtMGFJOE94cVVXOHFqQnc9PSIsImRldmljZVNpZ25hdHVyZSI6ImR3S3JLajZtZUpKUnBtN3ZtTS9MUytvL1V3NWwxUEN0eDBXZmFoalhtNGo4WUF6b0VtcmNSQ1FtVXptamRJb2RBMjJ4cUFrQVZKcjlUUlhqTTVzT0R3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1NzM4MTMyNDQ3OjUyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmRRMGswaGthb2kwZlF2ck9lVE1RdmhmRVdUSXMvUTJtU1A4N3ZwQkZqTlEifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTkzMDQ4MjB9
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Naveed-Dogar' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
   packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'King-Md' : process.env.PACK_NAME.split(";")[1],
